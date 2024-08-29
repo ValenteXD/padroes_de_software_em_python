@@ -1,0 +1,1 @@
+Com o padrão prototype podemos criar novos objetos a partir de um objeto já instanciado, dessa forma se torna mais fácil criar objetos com parâmetros iguais ou um pouco diferentes. Podemos então no exemplo criar quantos inimigos quisermos a partir do inimigo original todos tendo apenas uma variação de nível para determinar como seu HP e dano escalam e também alterando a cor

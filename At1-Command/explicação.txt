@@ -1,0 +1,6 @@
+O uso do padrão de comandos permite parametrização pois cria uma estrutura única
+para requisitar funcionalidades do sistema apenas variando o parâmetro, que 
+especifica o comando. Esse padrão possibilita ainda a criação de uma pilha de
+comandos pois todos os comandos compartilham uma mesma forma de chamada,
+sendo assim podemos guardar o parâmetro do comando para cada comando executado
+e assim podemos remover e analisar os últimos recebidos para desfazer.
